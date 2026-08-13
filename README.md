@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👤 About Me:
 B.Tech student in Computer Science Engineering (Artificial Intelligence and Machine Learning)<br>Building projects based on machine learning<br>Exploring gen AI, agentic AI and modern AI coding tools<br>Continuously learning new technologies and sharpening practical problem-solving skills<br>Comfortable with tools like  Cursor, Claude Code, Bolt and similar AI-first developer workflows
 
 
