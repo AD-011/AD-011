@@ -39,6 +39,11 @@ To accelerate my development, I leverage AI-first workflows and am highly comfor
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AD-011&theme=dark&hide_border=false&layout=compact" width="320" />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AD-011&theme=react-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AD-011&theme=react&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AD-011&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</picture>
 
 <br />
 
