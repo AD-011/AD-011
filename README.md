@@ -1,5 +1,5 @@
 # 👤 About Me:
-I am a B.Tech student in Computer Science Engineering (AI & ML) dedicated to continuously learning new technologies and sharpening my practical problem-solving skills<br>I actively build machine learning projects while exploring the evolving landscape of Generative and Agentic AI.<br>To accelerate my development, I leverage AI-first workflows and am highly comfortable with modern coding tools like Cursor, Claude Code, and Bolt.
+I am a B.Tech student in Computer Science Engineering (AI & ML) dedicated to continuously learning new technologies and sharpening my practical problem-solving skills.<br>I actively build machine learning projects while exploring the evolving landscape of Generative and Agentic AI.<br>To accelerate my development, I leverage AI-first workflows and am highly comfortable with modern coding tools like Cursor, Claude Code, and Bolt.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-das-a04258337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akash11745@gmail.com) 
 
