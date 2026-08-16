@@ -13,9 +13,14 @@ I am a B.Tech student in Computer Science Engineering (AI & ML) dedicated to con
 
 <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AD-011&theme=react-dark)<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AD-011/AD-011/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AD-011/AD-011/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AD-011/AD-011/output/github-snake.svg" />
+</picture><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AD-011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=5)
----
+
+
 [![](https://komarev.com/ghpvc/?username=AD-011&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
