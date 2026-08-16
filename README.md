@@ -6,7 +6,7 @@ I actively build machine learning projects while exploring the evolving landscap
 To accelerate my development, I leverage AI-first workflows and am highly comfortable with modern coding tools like Cursor, Claude Code, and Bolt.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-das-a04258337)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-das-a04258337)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akash11745@gmail.com)
 
 # 💻 Tech Stack:
@@ -33,6 +33,12 @@ To accelerate my development, I leverage AI-first workflows and am highly comfor
 | 📈 Overall Stats | 🔥 Contribution Streak |
 | :---: | :---: |
 | <img src="https://github-readme-stats.shion.dev/api?username=AD-011&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" /> | <img src="https://streak-stats.demolab.com?user=AD-011&theme=dark&hide_border=false" width="400" /> |
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AD-011&theme=dark&hide_border=false&layout=compact" width="400" />
+</div>
 
 <br />
 
