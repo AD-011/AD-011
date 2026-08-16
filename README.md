@@ -32,8 +32,7 @@ To accelerate my development, I leverage AI-first workflows and am highly comfor
 
 | 📈 Overall Stats | 🔥 Contribution Streak |
 | :---: | :---: |
-| <img src="https://github-readme-stats.shion.dev/api?username=AD-011&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" /> | <img src="https://streak-stats.demolab.com?user=AD-011&theme=dark&hide_border=false" width="400" /> |
-
+| <img src="https://github-readme-stats.shion.dev/api?username=AD-011&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=ff7b72&bg_color=0d1117&border_color=30363d&include_all_commits=false&count_private=false" width="400" /> | <img src="https://streak-stats.demolab.com?user=AD-011&theme=dark&hide_border=false" width="400" /> |
 <br />
 
 <div align="left">
