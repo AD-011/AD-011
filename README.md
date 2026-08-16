@@ -31,8 +31,8 @@ To accelerate my development, I leverage AI-first workflows and am highly comfor
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AD-011&theme=solarized_dark" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AD-011&theme=solarized_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AD-011&theme=highcontrast&hide_border=false" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AD-011&theme=highcontrast&hide_border=false" height="180" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AD-011&theme=highcontrast&hide_border=false" />
