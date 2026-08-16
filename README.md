@@ -1,6 +1,8 @@
 # 👤 About Me:
-I am a B.Tech student in Computer Science Engineering (AI & ML) dedicated to continuously learning new technologies and sharpening my practical problem-solving skills.<br>
-I actively build machine learning projects while exploring the evolving landscape of Generative and Agentic AI.<br>
+I am a B.Tech student in Computer Science Engineering (AI & ML) dedicated to continuously learning new technologies and sharpening my practical problem-solving skills.
+<br>
+I actively build machine learning projects while exploring the evolving landscape of Generative and Agentic AI.
+<br>
 To accelerate my development, I leverage AI-first workflows and am highly comfortable with modern coding tools like Cursor, Claude Code, and Bolt.
 
 ## 🌐 Socials:
@@ -28,17 +30,11 @@ To accelerate my development, I leverage AI-first workflows and am highly comfor
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AD-011&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 | 📈 Overall Stats | 🔥 Contribution Streak |
 | :---: | :---: |
-| <img src="https://github-readme-stats.shion.dev/api?username=AD-011&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400"/> | <img src="https://streak-stats.demolab.com?user=AD-011&theme=dark&hide_border=false" width="400"/> |
+| <img src="https://github-readme-stats.shion.dev/api?username=AD-011&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" /> | <img src="https://streak-stats.demolab.com?user=AD-011&theme=dark&hide_border=false" width="400" /> |
 
-<br/>
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AD-011/AD-011/output/github-snake-dark.svg" />
@@ -46,8 +42,6 @@ To accelerate my development, I leverage AI-first workflows and am highly comfor
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AD-011/AD-011/output/github-snake.svg" />
 </picture>
 
-<br/>
+<br />
 
 [![](https://komarev.com/ghpvc/?username=AD-011&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
