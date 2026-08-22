@@ -38,7 +38,7 @@ To accelerate my development, I leverage AI-first workflows and am highly comfor
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AD-011&layout=compact&theme=highcontrast&hide_border=false" height="200" />
 </p>
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AD-011&theme=highcontrast&hide_border=false" height="195" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AD-011&theme=highcontrast&hide_border=false" height="195" alt="GitHub Streak" />
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AD-011&theme=react-dark&hide_border=true&area=true" />
